@@ -1,5 +1,7 @@
 # SEU Auto Login
 
+1
+
 东南大学信息门户自动登录，采用requests库，获取登录session，无需浏览器依赖，全平台通用。**目前已添加GitHub Action自动部署功能，无需服务器，一键fork部署！！！🎉**
 
 **本项目仅供学习使用**
